@@ -1,7 +1,7 @@
 {
-  "classification": "LOCAL_ONLY_CANDIDATE",
+  "classification": "PUBLIC_SOURCE_DOCUMENTATION_REVISION",
   "copyright_notice": "Copyright (c) 2026 Eric Staiger",
-  "derivative_version": "RC3_MIT_20261011",
+  "derivative_version": "RC3_DOCS_1_RELATIONAL_20261011",
   "documentation_source_manifest_sha256": "0499b2e90cf1e504588659ce785f381cdde24e2ea0d0b555bb6e55539a83eaf3",
   "evidence": "SYNTHETIC_ONLY",
   "excludes": [
@@ -22,16 +22,16 @@
       "sha256": "a45966fe723347be9d1864a22d7d01cdd2e4b8ed5a83c839c5f7f76ccd0479a2"
     },
     "LICENSE-REVIEW.md": {
-      "bytes": 2929,
-      "sha256": "111271f61271ccb08d8aa6adc333a4e0cc33006fd7232c2c274739a56721c67a"
+      "bytes": 3117,
+      "sha256": "18146c138f4a91c87a2b83cfd326c36a59c904dd18f7c5518434456a748596c4"
     },
     "PRIVACY.md": {
-      "bytes": 1529,
-      "sha256": "c20d2fda56df24e208e3b298d406b204e2915903047c466fc8b22f3ce363e221"
+      "bytes": 1650,
+      "sha256": "fb180611283bc00fa9c8b970e96b1197e63f5b9f70a1b538c1aa2816f30a6c85"
     },
     "README.md": {
-      "bytes": 7985,
-      "sha256": "0a387a17df1bde01bebe4fac894c53e94e3c15b277557de959260ee6ebb58d7c"
+      "bytes": 10676,
+      "sha256": "8cdf6d77a81be8d1f19976fabee3b8c492ccf11d8a932fe4ea4e4debf6bcfbbe"
     },
     "RUN-JUDGE.cmd": {
       "bytes": 227,
@@ -70,32 +70,32 @@
       "sha256": "57461b00c2bc1e3db160608ad04f09dec252758d70e7ecccf755b167a494ccb8"
     },
     "docs/ARCHITECTURE-AND-BOUNDARIES.md": {
-      "bytes": 5091,
-      "sha256": "fb6b066dc2f730a2fa1ade27b4485117841ce34f721d4f1d078dfefa499c67b7"
+      "bytes": 5649,
+      "sha256": "bde9b21063f2192ed283fcb1eabb12089cf6d733759e8c715bce09a1e83ffba2"
     },
     "docs/BUILD-AND-TEST.md": {
-      "bytes": 5768,
-      "sha256": "91fd5b04528ddf2849255112b6e2ecc939f2c4893ad7db66d30fab7101400db5"
+      "bytes": 6256,
+      "sha256": "4523c2c643404c3750f8d32fa659005f1da9dc2d97e2894d0ae96af0b3b0e9c8"
     },
     "docs/DEMO-AND-VERIFICATION.md": {
-      "bytes": 3316,
-      "sha256": "b45990b6b1eb708f547301dcb416a4e5c9c417f1cbb37bf4cd512a91d87fc55c"
+      "bytes": 3727,
+      "sha256": "4f116e8bd62b9b65b5dba4bcd3ea56cb082c5b0c07098d4e8c440291f191d6a8"
     },
     "docs/EVIDENCE-BOUNDARIES.md": {
-      "bytes": 5343,
-      "sha256": "c2dee32ba4bd9c4ffe3932f3005149371ca295a37aacc7c94aed8365e7d5cee0"
+      "bytes": 6179,
+      "sha256": "6cddc2a40c9301a962b37d54a33487abdf4bf9ea2a680acdfacdadfecc23dc39"
     },
     "docs/FAQ.md": {
-      "bytes": 3999,
-      "sha256": "fde49690dd9e519f0688fa7b948e1326435e2ec461ebc4c70ad50c95f03d6bd4"
+      "bytes": 5024,
+      "sha256": "a6ad8d66c6593b546ff778974fb3c4999ca3bcd0f5d2276123050545091ecd2c"
     },
     "docs/PROJECT-STORY.md": {
       "bytes": 3065,
       "sha256": "540fa2afa4b3da04c52d3b548e6c5d2a1e86fce58978ae0318b01a649771a126"
     },
     "docs/ROADMAP-AND-VISION.md": {
-      "bytes": 4442,
-      "sha256": "1f9956131ff36a342b34161a657025e04da734937cd65a1d78de25d73e93bd95"
+      "bytes": 7674,
+      "sha256": "db2193d1c1bef68f5a95e544e3b042c141e5983d6a4a959563e87fc145955888"
     },
     "requirements.txt": {
       "bytes": 170,
@@ -103,10 +103,11 @@
     }
   },
   "format": "WILDLINE_SOURCE_RC1",
-  "integration_scope": "Founder-authorized MIT adoption, license references and release-status metadata only; executable code, tests, fixtures and dependencies unchanged",
+  "integration_scope": "Founder-authorized relational-continuity positioning, research/evidence boundaries, publication-status documentation and refreshed integrity metadata only; executable code, tests, fixtures, dependencies and MIT LICENSE unchanged",
   "license": "MIT",
   "license_scope": "AUTHORIZED_PROJECT_OWNED_SOURCE_AND_DOCUMENTATION_ONLY",
-  "publication_authorized": false,
+  "publication_authorized": true,
   "second_computer_tested": false,
-  "upstream_manifest_sha256": "9412de43021ee11fb31ee797effdf645eac728c6c22d622f74d0b73508bf1b58"
+  "upstream_commit": "f63cdfab45d5e45370b44fa5f1a90a74567c58e1",
+  "upstream_manifest_sha256": "9476c8990b938b6ce50e0c86c86c0f678d381b8dade9ef528126710478f7aa2a"
 }

@@ -24,7 +24,7 @@ No specific conflicting file or bundled third-party notice obligation was identi
 - MIT adoption and approved copyright notice: **ADOPTED** for authorized project-owned public materials.
 - Package scope: **FICTIONAL-ONLY**. No genuine Bee acquisition.
 - Different-computer testing: **NOT INDEPENDENTLY TESTED ON A SECOND COMPUTER**; founder-deferred for the hackathon.
-- GitHub publication: **NOT AUTHORIZED BY THIS TASK**.
-- Existing RC1/RC2 packages and private releases: unchanged, with their original historical records and seals.
+- GitHub publication: **FOUNDER-AUTHORIZED AND PUBLISHED** for the public reader. The bounded RC3-docs.1 editorial revision is also authorized; no private-release publication or broader rights grant follows from it.
+- Original RC3 commit and sealed ZIP, earlier packages and private releases: unchanged, with their original historical records and seals.
 
 MIT's copyright and permission notices must accompany copies or substantial portions of the licensed materials. The complete standard grant and warranty/liability clauses are in LICENSE. No broader license or legal clearance is claimed.

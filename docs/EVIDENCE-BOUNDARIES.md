@@ -12,6 +12,7 @@
 | H5 paired real Bee observations | Same confirmed source Fact recovered in a fresh process | No real change observed; paired proof is separate from later single-observation acquisition |
 | H5 presentation derivative | Retained report records 162 passing tests, actual recovered answer displayed | Private pair and supporting data not public-release material |
 | Public-source RC1 | 48 clean-extraction tests | Fictional only; no authenticated Bee adapter or personal source evidence |
+| Published public RC3 / RC3-docs.1 | RC3 licensing and publication checks passed the unchanged 48-test suite; docs.1 preserves executable bytes | Fictional only; documentation revision does not establish broader relational usefulness |
 | Private Bee-track RC1 | 95 clean-extraction tests | Authenticated CLI path present, but original RC1 did not bridge one live observation to fresh recovery |
 | Private Bee bridge v1.1 | 107 clean-extraction tests using mock responses and fictional data | Mock pass is not a live Bee pass |
 | Founder-authorized v1.1 validation (Oct 11) | Exactly one genuine Bee CLI invocation; exit code 0; different acquisition/reader processes; actual source-qualified answer recovered; 8/8 evidence files verified | Only one authorized Fact; no source change/no-change inference, writeback, synchronization or device-origin attestation |
@@ -29,6 +30,8 @@ Actual retained reports were checked for the public 48, private RC1 95, v1.1 107
 - MIT is adopted for authorized project-owned public-reader source and documentation, with Copyright (c) 2026 Eric Staiger. Rights for independently owned materials and publication authorization remain separate from test success; private releases are not relicensed.
 
 ## Source-to-doc consistency rule
+
+The **Reachable Unknown** is a FUTURE VISION research hypothesis about the usefulness of sustained, accountable human–AI collaboration. Its advantage over disconnected AI interactions remains unmeasured and independently unproven. The founder's personal collaboration experience is motivation, not a controlled comparison. Prior synthetic Reachable Unknown experiments are EXPERIMENTAL preliminary mechanism investigations, not independent proof of superior discovery or emergent intelligence. Neither the public reader nor the private one-observation Bee recovery proves that broader advantage.
 
 Every public claim should identify its evidence level: **demonstrated**, **founder-reported**, **test scenario**, **current design**, or **future possibility**.
 

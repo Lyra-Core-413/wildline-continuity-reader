@@ -1,10 +1,10 @@
 # public-source — judge demonstration
 
-## Exact public RC3 MIT setup and commands
+## Exact public reader setup and commands
 
 Use Windows x64 with separately installed `python` on PATH, tested with CPython 3.14.7. The intended minimum is Python 3.11, untested. No pip dependencies, bundled Python runtime, Bee client/account, API key or Core files are required. Installation may need internet; playback does not.
 
-From a complete clean extraction of this RC3 MIT package:
+From a complete checkout or clean extraction of this RC3-docs.1 package:
 
 ```powershell
 python --version
@@ -23,7 +23,7 @@ python -X utf8 -I -B demo\h5_sidecar.py historical
 
 The historical command only prints a boundary notice. Fictional run/evidence files are generated in `demo/runs/` and `demo/evidence/`, which must be writable and kept out of releases. The acquisition child exits before the separate reader starts. The display is the actual recovered answer, history, provenance, uncertainty and authority NONE.
 
-The current `RELEASE-MANIFEST.json` and `RELEASE-MANIFEST.sha256` bind this 25-file RC3 candidate. Earlier 17-file RC1 and 24-file RC2 packages retain their own unchanged seals. The unchanged launcher still prints its original RC1 banner; the manifest identifies this licensing derivative. Local hashes are not publisher authentication.
+The current `RELEASE-MANIFEST.json` and `RELEASE-MANIFEST.sha256` bind this 25-file RC3-docs.1 revision. Original RC3, earlier 17-file RC1 and 24-file RC2 packages retain their own unchanged seals. The unchanged launcher still prints its original RC1 banner; the manifest identifies this documentation derivative. Local hashes are not publisher authentication.
 
 ## VERIFIED — October 11 live evidence update
 
@@ -36,6 +36,8 @@ The result remains source-qualified `CLAIMED_UNVERIFIED`, with device origin unv
 No private operation receipt, identifying Fact content/ID or captured answer is included here.
 
 **Live v1.1 single-Fact recovery ≠ historical change replay ≠ full sync.**
+
+Neither the fictional public demonstration nor the single-observation private Bee result proves a relational discovery advantage. The Reachable Unknown remains a research hypothesis. Prior synthetic experiments are preliminary mechanism investigations, not independent proof of superior discovery or emergent intelligence; see [Roadmap and vision](ROADMAP-AND-VISION.md).
 
 ## VERIFIED / EXPERIMENTAL / FUTURE VISION
 

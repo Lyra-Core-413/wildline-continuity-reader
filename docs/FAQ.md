@@ -8,6 +8,14 @@ No. Wildline is being developed as a **continuity architecture** that can suppor
 
 The founder's problem wasn't just remembering past statements. It was preserving **how understanding changed**, why something was revised and which interpretation still deserved to influence the next interaction.
 
+## What is relational continuity?
+
+It means carrying forward the consequences of sustained human–AI collaboration: shared challenges, disagreement, corrections and discovery. The aim is a more useful thinking partnership whose understanding remains open to challenge, not automatic agreement, human imitation, or a claim that AI has human feelings. The public reader demonstrates a small recovery mechanism, not this complete relationship.
+
+## What is The Reachable Unknown?
+
+It is the research hypothesis that sustained, accountable collaboration could help a person discover useful possibilities they would be less likely to reach through disconnected AI interactions. The founder's collaboration experience motivates the question; its advantage has not been measured or independently established. Previous synthetic experiments are preliminary mechanism investigations, not proof of superior discovery or emergent intelligence. See [Roadmap and research](ROADMAP-AND-VISION.md).
+
 ## What is the difference between Lyra Core and Wildline?
 
 **Lyra Core** is the private, bespoke working reference experience. **Wildline** is the effort to extract the underlying mechanisms for others. A new user should be able to create their own continuity without importing the founder's history.
@@ -42,7 +50,7 @@ No. Peer support, hospice, caregiving and living-legacy applications are possibi
 
 ## Why open-source a small reader?
 
-It is a privacy-conscious demonstration of a reusable mechanism. The founder's personal Core and sensitive Bee data should not become part of someone else's downloaded system. This locally prepared public candidate is MIT-licensed for authorized project-owned source and documentation, with Copyright (c) 2026 Eric Staiger; it has not been published. See [LICENSE](../LICENSE).
+It is a privacy-conscious demonstration of a reusable mechanism. The founder's personal Core and sensitive Bee data should not become part of someone else's downloaded system. The reader is published in this repository and MIT-licensed for authorized project-owned source and documentation, with Copyright (c) 2026 Eric Staiger. RC3-docs.1 changes documentation and integrity metadata only. See [LICENSE](../LICENSE).
 
 ## What is the role of 411, 413 and 412?
 

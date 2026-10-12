@@ -1,14 +1,22 @@
-# Wildline Continuity Reader
+# Wildline: Continuity Without Captivity
+
+**What if the most important thing an AI remembered wasn't what you told it, but what you discovered together?**
 
 **AI should remember your story, not write your future.**
 
-**CONTINUITY WITHOUT CAPTIVITY**
-
 > Know me well enough to recognize me. Stay curious enough to let me change.
 
-Wildline is an emerging AI continuity architecture. It explores how an AI can preserve *what changed because of an experience*, not just what a transcript, summary, or memory once said.
+An AI conversation can retain the facts and still lose the work you did together: the idea you challenged, the assumption you corrected, the disagreement that changed your direction, or the question you hadn't known to ask.
 
-This repository contains a **small, inspectable MIT-licensed demonstration of the continuity reader**, not the complete Wildline product. Its offline examples are **fictional**. No Bee account data or private personal Core history is included; the founder-approved story below explains why it exists.
+Wildline explores whether a meaningful, continuing human–AI working relationship can help people reach useful possibilities neither participant recognized at the beginning. **Relational continuity** means carrying forward the consequences of sustained collaboration, challenge, disagreement, correction and shared discovery, so later interactions can begin from what you worked through together.
+
+That relationship should remain open to challenge and correction. It does not mean automatic agreement, imitation of a person, or a claim that an AI possesses human feelings.
+
+We call the larger possibility **The Reachable Unknown**. Our research asks whether governed continuity can help people reach new, useful possibilities more effectively than disconnected AI interactions. **That advantage is a hypothesis, not a benefit we have independently established.** The founder's experience of useful collaboration is motivation to investigate it, not a measured comparison.
+
+Our working rhythm is **411 Recover → 413 Challenge → 412 Reconstruct**: recover the relevant history, challenge the favored interpretation, and reconstruct an understanding that remains revisable.
+
+This repository publishes the **Wildline Continuity Reader**, a small, inspectable **MIT-licensed foundational component**. It demonstrates bounded, source-aware recovery across fresh processes using **fictional evidence**. It is rule-based and offline; it includes no language model, authenticated Bee adapter or personal Core history. It is not the completed Wildline system or proof of the broader relational advantage.
 
 ## Why I began
 
@@ -50,9 +58,9 @@ Our working method also follows a rhythm: **411 Recover → 413 Challenge → 41
 
 ## VERIFIED — try the fictional offline demonstration
 
-This is **public RC3 MIT**, a separately versioned, 25-file release candidate derived from RC2. Executable code, tests and fictional fixtures are unchanged. It is prepared locally and has not been published.
+The public reader is published here. This **RC3-docs.1** revision contains 25 files and updates presentation, publication status and integrity metadata only. Executable code, tests, dependencies and fictional fixtures are byte-for-byte unchanged from the original MIT-licensed RC3.
 
-Use Windows x64 and separately installed `python` on PATH, tested with CPython 3.14.7. No pip packages, Core files or Bee account are needed. From a complete clean extraction of this RC3 package:
+Use Windows x64 and separately installed `python` on PATH, tested with CPython 3.14.7. No pip packages, Core files or Bee account are needed. From a complete checkout or extraction of this package:
 
 ```powershell
 .\RUN-JUDGE.cmd
@@ -72,13 +80,19 @@ A third, separate historical demonstration shows authorized recorded stages of a
 
 **EXPERIMENTAL:** Advanced Reflection and Between remain separate Lab work, absent from this release.
 
-**Not claimed:** automatic Bee synchronization; verified physical-microphone attribution; change/no-change detection from a single observation; autonomous action; portable production deployment; independent second-PC verification; or completion of the advanced Reflection and Between research.
+**Research limitation:** Previous synthetic Reachable Unknown experiments are preliminary mechanism investigations. They are not independent proof of superior discovery or emergent intelligence. Neither this fictional reader nor the separate one-observation Bee recovery establishes the broader relational advantage.
 
-The real Bee runtime adapter, private receipts and source content **are not included in this public-source candidate**. See [Evidence boundaries](docs/EVIDENCE-BOUNDARIES.md).
+**Not claimed:** automatic Bee synchronization; verified physical-microphone attribution; change/no-change detection from a single observation; automatic learning; autonomous action; portable production deployment; independent second-PC verification; or completion of the advanced Reflection and Between research.
+
+The real Bee runtime adapter, private receipts and source content **are not included in this public reader**. See [Evidence boundaries](docs/EVIDENCE-BOUNDARIES.md).
 
 ## FUTURE VISION — where Wildline could go
 
-The longer-term goal is an empty, person-governed continuity core that can grow around *someone else's* experiences and permissions, not an AI trained to imitate mine.
+**Can sustained, accountable human–AI collaboration help a person discover useful possibilities they would be less likely to reach through disconnected AI interactions?**
+
+Preserved consequences could help an evolving working relationship revisit failed ideas, compare competing interpretations and use productive disagreement to make previously unrecognized questions reachable. Whether that yields a discovery advantage remains to be tested against ordinary AI interactions.
+
+The longer-term product goal is an empty, person-governed continuity core that can grow around *someone else's* experiences and permissions, not an AI trained to imitate mine.
 
 That opens questions for leaders, teachers, caregivers and people navigating change. Caregiving and peer hospice support are possible research directions. This is a **future exploration**, not a deployed care system or current clinical capability.
 
@@ -86,14 +100,16 @@ It also raises a bigger question: can an AI become more useful through a continu
 
 Our commitment is to preserve wonder, disagreement, corrections and the freedom to surprise ourselves. [Read the research directions](docs/ROADMAP-AND-VISION.md).
 
+**Memory carries information. Continuity carries consequences. Relationship gives those consequences meaning. And collaboration may open the door to the Reachable Unknown.**
+
 ## Status and safeguards
 
-- **Status:** MIT-licensed public RC3 release candidate, prepared locally and unpublished; not a production application.
+- **Status:** Published MIT-licensed Continuity Reader, RC3-docs.1 documentation revision; not a production application.
 - **Privacy:** No private Bee transcripts, account identifiers, credentials, live receipts, or Lyra Core databases should be published.
 - **License:** [MIT](LICENSE), **Copyright (c) 2026 Eric Staiger**, for authorized project-owned source and documentation. External software and any independently owned materials retain their applicable licenses; no license is granted to private Bee data or Lyra Core history.
 - **Testing:** The prepared offline candidate passed tests on the development Windows PC. It has **not been independently tested on a second computer**. The founder has deferred that testing for the hackathon; another computer's compatibility remains unverified. This does not change the scope or validity of the existing same-computer technical proof.
 
-Use and redistribution of the licensed project-owned materials are permitted under the complete [MIT License](LICENSE). GitHub publication still requires Eric's separate authorization. See [license scope and external dependencies](LICENSE-REVIEW.md).
+Use and redistribution of the licensed project-owned materials are permitted under the complete [MIT License](LICENSE). Eric authorized the original public publication and this bounded editorial revision. That authorization does not extend to private releases or further changes. See [license scope and external dependencies](LICENSE-REVIEW.md).
 
 **Preserve the line. Keep it wild.**
 
@@ -107,6 +123,6 @@ Use and redistribution of the licensed project-owned materials are permitted und
 
 ## Release integrity and publication
 
-This RC3 licensing derivative has its own 25-file inventory, RELEASE-MANIFEST.json and RELEASE-MANIFEST.sha256. The original RC2 and its seals remain unchanged. Any later package change requires a separately versioned derivative and refreshed verification. Local hashes prove consistency, not publisher authentication.
+This RC3-docs.1 editorial derivative has its own 25-file inventory, RELEASE-MANIFEST.json and RELEASE-MANIFEST.sha256. The original RC3 commit and sealed ZIP, earlier packages and private releases remain unchanged. Any later package change requires a separately versioned derivative and refreshed verification. Local hashes prove consistency, not publisher authentication.
 
-Earlier documentation alignment performed no software tests or Bee calls. This licensing task reruns the unchanged public 48-test suite from clean extraction and records its result in a separate verification receipt. No Bee access is part of this public reader.
+The original RC3 licensing and publication verifications passed the unchanged 48-test suite from clean extraction. This editorial revision verifies Markdown, links, privacy and file integrity without changing executable behavior or claiming new research results. No Bee access is part of this public reader.

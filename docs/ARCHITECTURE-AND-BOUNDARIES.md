@@ -6,6 +6,8 @@
 
 This is a design goal. Some mechanisms have been verified in bounded Lab and judge scenarios; the full portable product is not finished.
 
+The broader **relational continuity** thesis asks whether carrying forward shared challenges, disagreement, corrections and discoveries can make a continuing human–AI working relationship more useful. **The Reachable Unknown** names the resulting research question about useful possibilities. That advantage remains unmeasured and independently unproven; this reader's recovery mechanism does not demonstrate it. See [Roadmap and vision](ROADMAP-AND-VISION.md).
+
 ```text
 Authorized source (Bee, user, or another permitted source)
                      |
@@ -52,7 +54,7 @@ The sequence describes a **human-AI reasoning and governance method** observed i
 | **Lyra Core** | Private, personal continuity reference implementation that evolved alongside the founder's work |
 | **Wildline** | Reusable continuity architecture reverse-engineered from the working reference experience |
 | **Wildline Lab** | Isolated environment for experiments and tests before any promotion decision |
-| **Public-source RC1** | Fictional offline source-qualified reader demonstration |
+| **Public Continuity Reader (RC3-docs.1)** | Published fictional offline source-qualified reader demonstration; executable behavior unchanged from the original public source |
 | **Private Bee v1.1 bridge** | Consent-gated selected Bee Fact read and fresh-process recovery, verified in one bounded founder-run operation |
 
 ## Authority and governance
