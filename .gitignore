@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+demo/runs/
+demo/evidence/
+demo/test-runs/
+.venv/
+.env
+.env.*
+*.db
+*.sqlite*
+*.log
+credentials/
+secrets/

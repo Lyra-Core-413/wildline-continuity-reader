@@ -1,0 +1,2 @@
+# No pip dependencies. Uses only the separately installed CPython standard library.
+# Tested on CPython 3.14.7 / Windows x64. Intended minimum: Python 3.11 (not tested).
